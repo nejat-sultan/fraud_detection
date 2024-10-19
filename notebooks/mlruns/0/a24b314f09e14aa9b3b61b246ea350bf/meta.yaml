@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nejat/AIM%20Projects/fraud_detection/notebooks/mlruns/0/a24b314f09e14aa9b3b61b246ea350bf/artifacts
+end_time: 1729361354088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a24b314f09e14aa9b3b61b246ea350bf
+run_name: Random Forest
+run_uuid: a24b314f09e14aa9b3b61b246ea350bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729361220513
+status: 3
+tags: []
+user_id: nejat
