@@ -1,5 +1,6 @@
 Detection of Fraud Cases
 This project aims to detect fraudulent transactions through comprehensive data analysis, preprocessing, feature engineering, model building, training, and model explainability. The tasks are broken down into distinct phases to ensure a systematic approach.
+
 Task 1: Data Analysis and Preprocessing
 
 - Handling Missing Values
